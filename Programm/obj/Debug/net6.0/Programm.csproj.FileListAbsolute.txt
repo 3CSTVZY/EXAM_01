@@ -1,0 +1,16 @@
+/Users/maximalexeev/Desktop/Exam_01/Programm/bin/Debug/net6.0/Programm
+/Users/maximalexeev/Desktop/Exam_01/Programm/bin/Debug/net6.0/Programm.deps.json
+/Users/maximalexeev/Desktop/Exam_01/Programm/bin/Debug/net6.0/Programm.runtimeconfig.json
+/Users/maximalexeev/Desktop/Exam_01/Programm/bin/Debug/net6.0/Programm.dll
+/Users/maximalexeev/Desktop/Exam_01/Programm/bin/Debug/net6.0/ref/Programm.dll
+/Users/maximalexeev/Desktop/Exam_01/Programm/bin/Debug/net6.0/Programm.pdb
+/Users/maximalexeev/Desktop/Exam_01/Programm/obj/Debug/net6.0/Programm.GlobalUsings.g.cs
+/Users/maximalexeev/Desktop/Exam_01/Programm/obj/Debug/net6.0/Programm.csproj.AssemblyReference.cache
+/Users/maximalexeev/Desktop/Exam_01/Programm/obj/Debug/net6.0/Programm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maximalexeev/Desktop/Exam_01/Programm/obj/Debug/net6.0/Programm.AssemblyInfoInputs.cache
+/Users/maximalexeev/Desktop/Exam_01/Programm/obj/Debug/net6.0/Programm.AssemblyInfo.cs
+/Users/maximalexeev/Desktop/Exam_01/Programm/obj/Debug/net6.0/Programm.csproj.CoreCompileInputs.cache
+/Users/maximalexeev/Desktop/Exam_01/Programm/obj/Debug/net6.0/Programm.dll
+/Users/maximalexeev/Desktop/Exam_01/Programm/obj/Debug/net6.0/ref/Programm.dll
+/Users/maximalexeev/Desktop/Exam_01/Programm/obj/Debug/net6.0/Programm.pdb
+/Users/maximalexeev/Desktop/Exam_01/Programm/obj/Debug/net6.0/Programm.genruntimeconfig.cache
