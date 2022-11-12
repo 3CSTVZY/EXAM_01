@@ -24,3 +24,14 @@ int pos = 0;
 }
 #endregion
 
+Console.WriteLine("Result is: ");
+ 
+PrintArray(arrayTotal);
+
+void PrintArray(string[] array)
+{
+  for (int i=0; i<array.Length;i++)
+  {
+  Console.Write(array[i]);   
+  }
+}
